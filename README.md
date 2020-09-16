@@ -13,7 +13,7 @@ go get github.com/google/uuid
 ```
 # run
 ```
-go run instorm
+go run Hermes
 ```
 # build
 ```
